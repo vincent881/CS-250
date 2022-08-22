@@ -1,1 +1,1 @@
-# CS-250
+# I interpret user needs by using user feedback collected through focus groups. I then filter the needs based on the priority and size. User stories helps filter and organize the user feedback. To approach developing a program, I first map out a plan using psuedocode or a flochart. To be a good member in software development, you should have an expertise in a part of the project, excellent teamwork, and pull your own weight.
